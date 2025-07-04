@@ -1,6 +1,6 @@
 # Form-B-Gone 🤖💨
 
-A simple, powerful browser extension to automate the tedious Zoho feedback forms. With a single click, this little robot fills out all the dropdowns and comment boxes for you, saving you precious time and effort.
+A simple, powerful browser extension to automate the tedious Academia feedback forms. With a single click, this little robot fills out all the dropdowns and comment boxes for you, saving you precious time and effort.
 
 ## 🤔 Why Does This Exist?
 
@@ -40,7 +40,7 @@ You must have **Git** installed on your computer. If you don't, you can download
    Click the **"Load unpacked"** button that appeared on the left.
 
 5. **Select the Folder**  
-   A file browser window will open. Navigate to and select the `form-b-gone-extension` folder that you cloned in Step 1.
+   A file browser window will open. Navigate to and select the `Form-B-Gone` folder that you cloned in Step 1.
 
 6. **Done!**  
    The "Form-B-Gone" extension will now appear in your list of extensions, and its icon will be added to your browser's toolbar. You are ready to go!
