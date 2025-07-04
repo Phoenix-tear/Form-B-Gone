@@ -27,7 +27,7 @@ You must have **Git** installed on your computer. If you don't, you can download
    Open your terminal or command prompt and run the following command to clone this project to your computer. This will create a folder named `form-b-gone-extension` on your machine.
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/form-b-gone-extension.git
+   git clone https://github.com/Phoenix-tear/Form-B-Gone
    ```
 
 2. **Open Chrome Extensions**  
