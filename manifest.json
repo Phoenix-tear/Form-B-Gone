@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Form-B-Gone",
+  "version": "1.0",
+  "description": "Fills the Academia feedback form with one click.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png"
+    }
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
